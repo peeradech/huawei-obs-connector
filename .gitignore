@@ -21,3 +21,24 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Mendix
+# Mx7
+src/Mx7/HuaweiOBSConnector_Mx7237-main/.svn
+src/Mx7/HuaweiOBSConnector_Mx7237-main/deployment
+src/Mx7/HuaweiOBSConnector_Mx7237-main/*.bak
+src/Mx7/HuaweiOBSConnector_Mx7237-main/*.launch
+src/Mx7/HuaweiOBSConnector_Mx7237-main/.classpath
+src/Mx7/HuaweiOBSConnector_Mx7237-main/.mendix-cache
+src/Mx7/HuaweiOBSConnector_Mx7237-main/.project
+src/Mx7/HuaweiOBSConnector_Mx7237-main/.settings
+
+# Mx8
+src/Mx8/HuaweiOBS-main/.svn
+src/Mx8/HuaweiOBS-main/deployment
+src/Mx8/HuaweiOBS-main/*.bak
+src/Mx8/HuaweiOBS-main/*.launch
+src/Mx8/HuaweiOBS-main/.classpath
+src/Mx8/HuaweiOBS-main/.mendix-cache
+src/Mx8/HuaweiOBS-main/.project
+src/Mx8/HuaweiOBS-main/.settings
