@@ -30,7 +30,7 @@ Learn the OBS billing mode and pricing details. You can purchase resources in pa
 ## Installation and Configuration
 1. Download this connector from the mendix Marketplace into your app.
 2. Add the `HuaweiConfig_Overview` page to navigation.
-3. Go to the configuration and Create a new configuration with your `Access Key/Secret Key`
+3. Go to the configuration and Create a new configuration with your `Access Key/Secret Key` and you can add region by this [reference](https://developer.huaweicloud.com/intl/en-us/endpoint?OBS).
 
 ## Dependencies
 - 
