@@ -43,5 +43,6 @@ Learn the OBS billing mode and pricing details. You can purchase resources in pa
 - GetObject - Get file from OBS
 - DeleteObject - Delete file from OBS
 
+![Toolbox](https://github.com/peeradech/huawei-obs-connector/blob/e1736d520538be745e8c7646f07492904dc62be8/SCREENCAPTURE/SS_01_Toolbox.png)
 ## Know issues
 - 
