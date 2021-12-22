@@ -33,7 +33,7 @@ Learn the OBS billing mode and pricing details. You can purchase resources in pa
 3. Go to the configuration and Create a new configuration with your `Access Key/Secret Key` and you can add region by this [reference](https://developer.huaweicloud.com/intl/en-us/endpoint?OBS).
 
 ## Dependencies
-- 
+- Library Logging
 
 ## Features
 - ListBuckets - List of Buckets
